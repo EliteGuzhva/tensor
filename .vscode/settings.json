@@ -1,0 +1,6 @@
+{
+    "cmake.configureArgs": [
+        "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON",
+        "-DBUILD_TESTS=ON"
+    ]
+}
