@@ -1,5 +1,7 @@
-build/*
+build*
 bin*
 compile_commands.json
 .clangd
 .cache/*
+.vscode
+.nvimrc
